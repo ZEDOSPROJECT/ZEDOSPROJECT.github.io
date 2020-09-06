@@ -23,10 +23,10 @@ export default function App() {
           machine (VirtualBox with VTx Enabled in BIOS/UEFI)
         </p>
         <p>
-          <b>username:</b> zed
+          <b>Username:</b> zed
         </p>
         <p>
-          <b>passowrd:</b> zed
+          <b>Password:</b> zed
         </p>
         <p>
           <a

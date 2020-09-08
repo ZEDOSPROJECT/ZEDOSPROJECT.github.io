@@ -58,7 +58,7 @@ export default function App() {
             >
               <img
                 className="socialNetworksIcon"
-                src="https://lh3.googleusercontent.com/proxy/mekzu1D1HXS8GLTo3lUYPonfPuZUPvCVxs9mWbbGPAPkIjXOjchO1dfLEbLdX_P1bAVjtAiUHt3qfH_G9TLQVFVByv-rwg_7kZQTQTbIDwAxRdahGd8adyGe_sjrTk_ef4WYH-VoeUKBe3bOsSK0yEOVlhXw7Pdh9pkvpSnXbegh00kehtCikUkwaqA"
+                src="https://w0.pngwave.com/png/253/503/facebook-computer-icons-social-networking-service-login-facebook-icon-png-clip-art.png"
               />
             </a>
             <a

@@ -31,7 +31,7 @@ export default function App() {
         <p>
           <a
             target="_blank"
-            href="https://mega.nz/file/1s8VEKzS#8RkEyzViz7we5p3EYJpOjC0VyY5FKRbo-cHEXO46Q0I"
+            href="https://mega.nz/file/IklGkShK#Q24qL27cHFIfffZIM2LlP_aH8IWdO4mj0HNdn7XU7Eo"
           >
             <h1>Download</h1>
           </a>

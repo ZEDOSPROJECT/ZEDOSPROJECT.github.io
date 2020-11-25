@@ -1,5 +1,6 @@
 import React from "react";
 import ScreenShot from "./screenshot.jpg";
+import part000 from "./Parteners/000.png";
 import "./styles.css";
 
 export default function App() {
@@ -35,6 +36,17 @@ export default function App() {
           >
             <h1>Download</h1>
           </a>
+        </p>
+      </div>
+      <div className="VMTest">
+        <h1>Our Partners</h1>
+        <p>
+          <div className="partener">
+            <a href="http://institutomastertrainning.com.br/index.php" target="_blank"> 
+              <img className="partLogo" src={part000} width="64" />
+              <div className="partTitle">Instituto Master EAD</div>
+            </a>
+          </div>
         </p>
       </div>
       <div className="socialNetworks">

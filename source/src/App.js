@@ -32,13 +32,13 @@ export default function App() {
         <p>
           <a
             target="_blank"
-            href="https://mega.nz/file/IklGkShK#Q24qL27cHFIfffZIM2LlP_aH8IWdO4mj0HNdn7XU7Eo"
+            href="https://mega.nz/file/Uw9BTKBK#r7Ol5O-ixCwdx9X5Vp1y0O7JqDjcuqJpldXBuF42yWQ"
           >
             <h1>Download</h1>
           </a>
         </p>
       </div>
-      <div className="VMTest">
+      {/* <div className="VMTest">
         <h1>Our Partners</h1>
         <p>
           <div className="partener">
@@ -48,7 +48,7 @@ export default function App() {
             </a>
           </div>
         </p>
-      </div>
+      </div> */}
       <div className="socialNetworks">
         <p>
           <h1>Social Networks</h1>
@@ -80,7 +80,7 @@ export default function App() {
             >
               <img
                 className="socialNetworksIcon"
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/YouTube_icon.png/320px-YouTube_icon.png"
+                src="https://i.pinimg.com/originals/63/d0/8e/63d08e28c42a90dfc2fe2d0b1c7ab00c.png"
               />
             </a>
             <a

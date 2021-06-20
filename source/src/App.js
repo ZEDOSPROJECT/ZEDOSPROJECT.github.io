@@ -20,19 +20,12 @@ export default function App() {
       <div className="VMTest">
         <h1>If you want to test</h1>
         <p>
-          Currently it is only possible to test within a pre-built virtual
-          machine (VirtualBox with VTx Enabled in BIOS/UEFI)
-        </p>
-        <p>
-          <b>Username:</b> zed
-        </p>
-        <p>
-          <b>Password:</b> zed
+          Currently it is only possible to use from a live cd (without installation)
         </p>
         <p>
           <a
             target="_blank"
-            href="https://mega.nz/file/Uw9BTKBK#r7Ol5O-ixCwdx9X5Vp1y0O7JqDjcuqJpldXBuF42yWQ"
+            href="https://sourceforge.net/projects/zed-os/files/latest/download"
           >
             <h1>Download</h1>
           </a>
